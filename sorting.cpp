@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void bubblesort(int a[],int n)
+//Bubble Sort
+void bubblesort(int a[],int n) 
 {
 	bool swap;
 	do
